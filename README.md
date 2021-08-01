@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning programming at all and getting into algorithms and machine learning.
 - 🌱 I’m currently learning the basics of python.
 - 💞️ I’m looking to collaborate on whatever mate.
-- 📫 How to reach me [Babunator](https://www.reddit.com/user/Babunator)
+- 📫 How to reach me on [Reddit](https://www.reddit.com/user/Babunator)
